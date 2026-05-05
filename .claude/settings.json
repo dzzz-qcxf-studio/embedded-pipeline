@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /c/Users/ROG/.claude/skills/iteration-master)",
+      "Edit(~/.claude/skills/iteration-master/**)",
+      "Edit(~/.claude/skills/embedded-pipeline/**)",
+      "Edit(~/.claude/skills/stm32-master/**)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\ROG\\.claude\\skills"
+    ]
+  }
+}
