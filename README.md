@@ -19,7 +19,9 @@
 5. **stm32-master** - STM32代码编译和烧录
    - 地址：https://github.com/dzzz-qcxf-studio/stm32-master
 
-在Claude Code中安装这几个skill后，即可使用完整的嵌入式项目开发管道。
+随后前往下载**STM32CubeProgrammer** - 编译&下载cli
+
+在Claude Code中安装这几个skill，配置好相关的工具软件地址后，即可使用完整的嵌入式项目开发管道。
 
 ## 📋 项目简介
 
